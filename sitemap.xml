@@ -3,103 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/tags/django/</loc>
+    <loc>https://prometeo.github.io/tags/django/</loc>
     <lastmod>2020-06-02T17:31:21-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/n-plus-one-query-problem/</loc>
+    <loc>https://prometeo.github.io/posts/n-plus-one-query-problem/</loc>
     <lastmod>2020-06-02T17:31:21-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/orm/</loc>
+    <loc>https://prometeo.github.io/tags/orm/</loc>
     <lastmod>2020-06-02T17:31:21-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://prometeo.github.io/posts/</loc>
     <lastmod>2020-06-02T17:31:21-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://prometeo.github.io/</loc>
     <lastmod>2020-06-02T17:31:21-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/sql/</loc>
+    <loc>https://prometeo.github.io/tags/python/</loc>
     <lastmod>2020-06-02T17:31:21-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://prometeo.github.io/tags/sql/</loc>
     <lastmod>2020-06-02T17:31:21-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://prometeo.github.io/tags/</loc>
     <lastmod>2020-06-02T17:31:21-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/commands/</loc>
+    <loc>https://prometeo.github.io/tags/commands/</loc>
     <lastmod>2020-05-09T18:48:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/console/</loc>
+    <loc>https://prometeo.github.io/tags/console/</loc>
     <lastmod>2020-05-09T18:48:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>https://prometeo.github.io/tags/linux/</loc>
     <lastmod>2020-05-09T18:48:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/ls-command/</loc>
+    <loc>https://prometeo.github.io/posts/ls-command/</loc>
     <lastmod>2020-05-09T18:48:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/shell/</loc>
+    <loc>https://prometeo.github.io/tags/shell/</loc>
     <lastmod>2020-05-09T18:48:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/indexs/</loc>
+    <loc>https://prometeo.github.io/indexs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://prometeo.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

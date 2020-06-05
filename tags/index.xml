@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on sudoer</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on sudoer</description>
+    <title>Tags on Prometeo</title>
+    <link>https://prometeo.github.io/tags/</link>
+    <description>Recent content in Tags on Prometeo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
     <lastBuildDate>Tue, 02 Jun 2020 17:31:21 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://prometeo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>django</title>
-      <link>http://localhost:1313/tags/django/</link>
+      <link>https://prometeo.github.io/tags/django/</link>
       <pubDate>Tue, 02 Jun 2020 17:31:21 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/django/</guid>
+      <guid>https://prometeo.github.io/tags/django/</guid>
       <description></description>
     </item>
     
     <item>
       <title>orm</title>
-      <link>http://localhost:1313/tags/orm/</link>
+      <link>https://prometeo.github.io/tags/orm/</link>
       <pubDate>Tue, 02 Jun 2020 17:31:21 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/orm/</guid>
+      <guid>https://prometeo.github.io/tags/orm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://prometeo.github.io/tags/python/</link>
       <pubDate>Tue, 02 Jun 2020 17:31:21 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://prometeo.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sql</title>
-      <link>http://localhost:1313/tags/sql/</link>
+      <link>https://prometeo.github.io/tags/sql/</link>
       <pubDate>Tue, 02 Jun 2020 17:31:21 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/sql/</guid>
+      <guid>https://prometeo.github.io/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>commands</title>
-      <link>http://localhost:1313/tags/commands/</link>
+      <link>https://prometeo.github.io/tags/commands/</link>
       <pubDate>Sat, 09 May 2020 18:48:14 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/commands/</guid>
+      <guid>https://prometeo.github.io/tags/commands/</guid>
       <description></description>
     </item>
     
     <item>
       <title>console</title>
-      <link>http://localhost:1313/tags/console/</link>
+      <link>https://prometeo.github.io/tags/console/</link>
       <pubDate>Sat, 09 May 2020 18:48:14 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/console/</guid>
+      <guid>https://prometeo.github.io/tags/console/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>http://localhost:1313/tags/linux/</link>
+      <link>https://prometeo.github.io/tags/linux/</link>
       <pubDate>Sat, 09 May 2020 18:48:14 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/linux/</guid>
+      <guid>https://prometeo.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shell</title>
-      <link>http://localhost:1313/tags/shell/</link>
+      <link>https://prometeo.github.io/tags/shell/</link>
       <pubDate>Sat, 09 May 2020 18:48:14 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/shell/</guid>
+      <guid>https://prometeo.github.io/tags/shell/</guid>
       <description></description>
     </item>
     
